@@ -1,4 +1,4 @@
-//  runs once when loaded
+  //  runs once when loaded
 function setup() {
   cnv = createCanvas(500, 900);
   centerCanvas();
